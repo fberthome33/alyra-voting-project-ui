@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fberthome33/alyra-voting-project-ui/precache-manifest.6c6360dc2c607dae18ec0a6cd306d9ee.js"
+  "/fberthome33/alyra-voting-project-ui/precache-manifest.01401a749d91fb5666d82bef0d7eedef.js"
 );
 
 self.addEventListener('message', (event) => {
