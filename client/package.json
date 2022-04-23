@@ -1,20 +1,17 @@
 {
+  "homepage": "https://github.com/fberthome33/alyra-voting-project-ui/",
   "name": "client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@emotion/react": "^11.9.0",
-    "@emotion/styled": "^11.8.1",
-    "bootstrap": "^4.6.1",
+    "bootstrap": "^4.5.0",
     "gh-pages": "^3.2.3",
-    "react": "^17.0.2",
-    "react-bootstrap": "^1.6.4",
-    "react-dom": "^17.0.2",
-    "react-scripts": "^3.2.0",
-    "react-stepper-horizontal": "^1.0.11",
-    "web3": "^1.6.1"
+    "react": "16.11.0",
+    "react-bootstrap": "^1.3.0",
+    "react-dom": "16.11.0",
+    "react-scripts": "3.2.0",
+    "web3": "1.6.0"
   },
-  "homepage": "https://github.com/fberthome33/alyra-voting-project-ui",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
