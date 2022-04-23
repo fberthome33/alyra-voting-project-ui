@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/fberthome33/alyra-voting-project-ui/static/css/main.b100e6da.chunk.css",
-    "main.js": "/fberthome33/alyra-voting-project-ui/static/js/main.1b3966a9.chunk.js",
-    "main.js.map": "/fberthome33/alyra-voting-project-ui/static/js/main.1b3966a9.chunk.js.map",
-    "runtime-main.js": "/fberthome33/alyra-voting-project-ui/static/js/runtime-main.3ba8449e.js",
-    "runtime-main.js.map": "/fberthome33/alyra-voting-project-ui/static/js/runtime-main.3ba8449e.js.map",
-    "static/css/2.63f31f8d.chunk.css": "/fberthome33/alyra-voting-project-ui/static/css/2.63f31f8d.chunk.css",
-    "static/js/2.0cb1f1b1.chunk.js": "/fberthome33/alyra-voting-project-ui/static/js/2.0cb1f1b1.chunk.js",
-    "static/js/2.0cb1f1b1.chunk.js.map": "/fberthome33/alyra-voting-project-ui/static/js/2.0cb1f1b1.chunk.js.map",
-    "index.html": "/fberthome33/alyra-voting-project-ui/index.html",
-    "precache-manifest.01401a749d91fb5666d82bef0d7eedef.js": "/fberthome33/alyra-voting-project-ui/precache-manifest.01401a749d91fb5666d82bef0d7eedef.js",
-    "service-worker.js": "/fberthome33/alyra-voting-project-ui/service-worker.js",
-    "static/css/2.63f31f8d.chunk.css.map": "/fberthome33/alyra-voting-project-ui/static/css/2.63f31f8d.chunk.css.map",
-    "static/css/main.b100e6da.chunk.css.map": "/fberthome33/alyra-voting-project-ui/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/alyra-voting-project-ui/static/css/main.b100e6da.chunk.css",
+    "main.js": "/alyra-voting-project-ui/static/js/main.6897c1b2.chunk.js",
+    "main.js.map": "/alyra-voting-project-ui/static/js/main.6897c1b2.chunk.js.map",
+    "runtime-main.js": "/alyra-voting-project-ui/static/js/runtime-main.f507a3c9.js",
+    "runtime-main.js.map": "/alyra-voting-project-ui/static/js/runtime-main.f507a3c9.js.map",
+    "static/css/2.63f31f8d.chunk.css": "/alyra-voting-project-ui/static/css/2.63f31f8d.chunk.css",
+    "static/js/2.465ac534.chunk.js": "/alyra-voting-project-ui/static/js/2.465ac534.chunk.js",
+    "static/js/2.465ac534.chunk.js.map": "/alyra-voting-project-ui/static/js/2.465ac534.chunk.js.map",
+    "index.html": "/alyra-voting-project-ui/index.html",
+    "precache-manifest.2fe2d5cff964cf33453ae157e45f570a.js": "/alyra-voting-project-ui/precache-manifest.2fe2d5cff964cf33453ae157e45f570a.js",
+    "service-worker.js": "/alyra-voting-project-ui/service-worker.js",
+    "static/css/2.63f31f8d.chunk.css.map": "/alyra-voting-project-ui/static/css/2.63f31f8d.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/alyra-voting-project-ui/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ba8449e.js",
+    "static/js/runtime-main.f507a3c9.js",
     "static/css/2.63f31f8d.chunk.css",
-    "static/js/2.0cb1f1b1.chunk.js",
+    "static/js/2.465ac534.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.1b3966a9.chunk.js"
+    "static/js/main.6897c1b2.chunk.js"
   ]
 }
